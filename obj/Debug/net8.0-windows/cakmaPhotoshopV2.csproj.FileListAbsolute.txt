@@ -1,0 +1,16 @@
+C:\Users\mtshbz\Documents\Projects\C#\cakmaPhotoshopV2\bin\Debug\net8.0-windows\cakmaPhotoshopV2.exe
+C:\Users\mtshbz\Documents\Projects\C#\cakmaPhotoshopV2\bin\Debug\net8.0-windows\cakmaPhotoshopV2.deps.json
+C:\Users\mtshbz\Documents\Projects\C#\cakmaPhotoshopV2\bin\Debug\net8.0-windows\cakmaPhotoshopV2.runtimeconfig.json
+C:\Users\mtshbz\Documents\Projects\C#\cakmaPhotoshopV2\bin\Debug\net8.0-windows\cakmaPhotoshopV2.dll
+C:\Users\mtshbz\Documents\Projects\C#\cakmaPhotoshopV2\bin\Debug\net8.0-windows\cakmaPhotoshopV2.pdb
+C:\Users\mtshbz\Documents\Projects\C#\cakmaPhotoshopV2\obj\Debug\net8.0-windows\cakmaPhotoshopV2.Form1.resources
+C:\Users\mtshbz\Documents\Projects\C#\cakmaPhotoshopV2\obj\Debug\net8.0-windows\cakmaPhotoshopV2.csproj.GenerateResource.cache
+C:\Users\mtshbz\Documents\Projects\C#\cakmaPhotoshopV2\obj\Debug\net8.0-windows\cakmaPhotoshopV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtshbz\Documents\Projects\C#\cakmaPhotoshopV2\obj\Debug\net8.0-windows\cakmaPhotoshopV2.AssemblyInfoInputs.cache
+C:\Users\mtshbz\Documents\Projects\C#\cakmaPhotoshopV2\obj\Debug\net8.0-windows\cakmaPhotoshopV2.AssemblyInfo.cs
+C:\Users\mtshbz\Documents\Projects\C#\cakmaPhotoshopV2\obj\Debug\net8.0-windows\cakmaPhotoshopV2.csproj.CoreCompileInputs.cache
+C:\Users\mtshbz\Documents\Projects\C#\cakmaPhotoshopV2\obj\Debug\net8.0-windows\cakmaPhotoshopV2.dll
+C:\Users\mtshbz\Documents\Projects\C#\cakmaPhotoshopV2\obj\Debug\net8.0-windows\refint\cakmaPhotoshopV2.dll
+C:\Users\mtshbz\Documents\Projects\C#\cakmaPhotoshopV2\obj\Debug\net8.0-windows\cakmaPhotoshopV2.pdb
+C:\Users\mtshbz\Documents\Projects\C#\cakmaPhotoshopV2\obj\Debug\net8.0-windows\cakmaPhotoshopV2.genruntimeconfig.cache
+C:\Users\mtshbz\Documents\Projects\C#\cakmaPhotoshopV2\obj\Debug\net8.0-windows\ref\cakmaPhotoshopV2.dll
